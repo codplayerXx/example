@@ -2,6 +2,7 @@ class Hello() {
 
 public String saas()
 {
-    return "tschüüüs" // ---
+    String s = "Hallo";
+    return s; // ---
 }
 }
